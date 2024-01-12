@@ -7,18 +7,6 @@
 </p>
 </h1>
 
-## 📘 My top open source projects
-
-<p align="center">
-  <a href="https://github.com/sanjay-rajjan/chess-together.org"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanjay-rajjan&repo=UniverseList&hide_border=true&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/sanjay-rajjan/sanjay.rajjan.com"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanjay-rajjan&repo=sanjay-rajjan.com&hide_border=true&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/sanjay-rajjan/project1"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanjay-rajjan&repo=NoMoreVery&theme=react&bg_color=1F222E&title_color=628fdb&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/sanjay-rajjan?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ## 📚 About Me
 
 ```diff 
