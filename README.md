@@ -14,18 +14,11 @@
 📧 Email: sanjayrajjan7@gmail.com
 💻 Favorite Programming Language: JavaScript, Python, Java
 📚 Areas of Interest: DataStructures, AI and DataScience
-💼 Professional Experience: 3 years
-🎾 Hobbies: Chess, Coding, Tennis, Games
+💼 Programming Experience: 4 years
+🎾 Hobbies: Chess, Tennis and Games
 🔭 Currently working on my personal projects
 
-📜 About  me: I began learning  to code at the age of 12,
-and since then, I've evolved  into a front-end web developer
-with expertise in multiple JS  frameworks. My  interests lie
-in  exploring the  latest technologies  and their real-world
-applications, particularly in AI. I'm always keen to network
-with like-minded individuals in the tech community,  so feel
-free to reach out to  me anytime. Thank you  for visiting my
-profile!
+📜 About  me: Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/. I’m also a member of the varsity tennis team at PHS and enjoy playing and coaching chess in my free time. I founded the Chess Club at Prosper High School and established a non-profit organization called [Chess Together] to teach chess to kids and special children. I’ve coached over 50 kids through the PHS Chess Club and Chess Together Non-Profit organization.
 
 ```
 
@@ -55,36 +48,18 @@ profile!
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>    
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>    
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>    
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>    
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-
-
-
-<details>
-  <summary>📊 GitHub Activity Graph</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanjay-rajjan&bg_color=242938&color=25e8a9&line=82aaff&point=89deff&area=true&hide_border=true)]()
-<!--END_SECTION:activity-->
-</details>
