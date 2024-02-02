@@ -11,7 +11,6 @@
 
 ```diff 
 👨‍💻 Name: Sanjay Rajjan
-📧 Email: sanjayrajjan7@gmail.com
 💻 Favorite Programming Language: JavaScript, Python, Java
 📚 Areas of Interest: DataStructures, AI and DataScience
 💼 Programming Experience: 4 years
@@ -21,10 +20,10 @@
 📜 About  me:
 Hello, I’m Sanjay Rajjan, a student at Prosper High School.
 I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/. 
-I’m also a member of the varsity tennis team at PHS and enjoy playing and coaching chess in my free time.
+I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time.
 I founded the Chess Club at Prosper High School and established a non-profit organization called [Chess Together]
 to teach chess to kids and special children.
-I’ve coached over 50 kids through the PHS Chess Club and Chess Together Non-Profit organization.
+I’ve coached over 50 kids through the PHS Chess Club and Chess Together Non-Profit Organization.
 
 ```
 
