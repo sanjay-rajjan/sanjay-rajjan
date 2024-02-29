@@ -19,11 +19,12 @@
 
 📜 About  me:
 Hello, I’m Sanjay Rajjan, a student at Prosper High School.
-I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/. 
-I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time.
-I founded the Chess Club at Prosper High School and established a non-profit organization called [Chess Together]
-to teach chess to kids and special children.
-I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit Organization.
+I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/.
+I’m also a member of the varsity tennis team at PHS.
+
+I enjoy playing and coaching chess in my free time. I founded the Chess Club at Prosper High School
+and established a non-profit organization Chess Together to teach chess to kids and special children.
+I’ve coached over 20 kids through the PHS Chess Club and Chess Together Non-Profit organization.
 
 ```
 
