@@ -13,7 +13,7 @@
 👨‍💻 Name: Sanjay Rajjan
 💻 Favorite Programming Language: JavaScript, Python, Java
 📚 Areas of Interest: DataStructures, AI and DataScience
-💼 Programming Experience: 4 years
+💼 Programming Experience: 3 years
 🎾 Hobbies: Chess, Tennis and Games
 🔭 Currently working on my personal projects
 
