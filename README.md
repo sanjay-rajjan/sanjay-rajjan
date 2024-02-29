@@ -23,7 +23,7 @@ I started learning computer programming in middle school through the Make.Hack.B
 I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time.
 I founded the Chess Club at Prosper High School and established a non-profit organization called [Chess Together]
 to teach chess to kids and special children.
-I’ve coached over 50 kids through the PHS Chess Club and Chess Together Non-Profit Organization.
+I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit Organization.
 
 ```
 
@@ -60,11 +60,9 @@ I’ve coached over 50 kids through the PHS Chess Club and Chess Together Non-Pr
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>    
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>    
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>    
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>    
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
