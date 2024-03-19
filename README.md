@@ -10,7 +10,7 @@
 ## 📚 About Me
 
 
-  Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school
+  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a student at Prosper High School. I started learning computer programming in middle school
   through the Make.Hack.Build program at [Do Space](https://dospace.org).
   I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time. 
   
