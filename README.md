@@ -3,14 +3,14 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     <br>
     <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+At+Prosper+HS,+TX;3%2B+Years+of+Coding+Experience;Learning+New+Tools+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=628fdb&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+At+Prosper+HS,+TX;3%2B+Years+of+Coding+Experience;Learning+New+Tools+And+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=628fdb&vCenter=true&size=22"></a>
 </p>
 </h1>
 
 ## 📚 About Me
 
 
-  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com),a  senior at Prosper High School and a PCIS student. I hold a strong passion for computer science and machine learning. I aspire to continue 
+  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a  senior at Prosper High School and a PCIS student. I hold a strong passion for computer science and machine learning. I aspire to continue 
   developing my computer 
   science skills and technicality through internship experiences in the future.
 
