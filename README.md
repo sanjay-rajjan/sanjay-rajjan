@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Sanjay Rajjan!
+<h1 align="center">Hi, I'm Sanjay Rajjan!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     <br>
     <p align="center">
@@ -10,11 +10,11 @@
 ## 📚 About Me
 
 
-  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a  senior at Prosper High School and a PCIS student. I hold a strong passion for computer science and machine learning. I aspire to continue 
+  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a  freshman CS major at the University of Texas at Austin. I hold a strong passion for computer science and machine learning. I aspire to continue 
   developing my computer 
   science skills and technicality through internship experiences in the future.
 
-  I am available for a summer internship from June to July 2025.
+  I am available for a summer internship from June to July 2026.
 
 
 
