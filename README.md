@@ -10,11 +10,7 @@
 ## 📚 About Me
 
 
-  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a  freshman CS major at the University of Texas at Austin. I hold a strong passion for computer science and machine learning. I aspire to continue 
-  developing my computer 
-  science skills and technicality through internship experiences in the future.
-
-  I am available for a summer internship from June to July 2026.
+  Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a Computer Science major at the University of Texas at Austin. I hold a strong passion for computer science and machine learning. I aspire to continue developing my computer science skills and technicality through internship experiences in the future. I am available for a summer internship from June to July 2026.
 
 
 
