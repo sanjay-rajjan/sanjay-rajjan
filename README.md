@@ -29,7 +29,7 @@ I’m currently developing my skills through personal projects and exploring ful
 
 
 ## Connect With Me
-**LinkedIn:** https://linkedin.com/in/sanjayrajjan/ 
+**LinkedIn:** https://linkedin.com/in/sanjayrajjan/
 **Email:** sanjayrajjan.j@gmail.com  
 
 
