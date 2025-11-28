@@ -16,15 +16,10 @@ I’m currently developing my skills through personal projects and exploring ful
 - Spring Boot  
 - FastAPI  
 
-### **Cloud & Infrastructure**
-- AWS  
-- GitHub Actions  
-- Vercel  
-
-### **Tools**
+### **Tools & Technologies**
 - Git & GitHub  
-- VS Code  
-- Postman  
+- AWS 
+- Pytest
 - Jira  
 
 
