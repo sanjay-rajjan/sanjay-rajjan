@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Sanjay Rajjan
+# Hello, I'm Sanjay Rajjan
 
-I’m a Computer Science student at **The University of Texas at Austin**, interested in **software engineering**, **cloud computing**, and **AI/ML**. I enjoy building reliable, well-structured applications and learning how modern systems scale in real-world environments.
-
-I’m currently developing my skills through personal projects, university coursework, and hands-on exploration of full-stack development and cloud technologies.
+I’m a computer science student at **The University of Texas at Austin**, and I hold a strong passion for security systems and machine learning.
+I’m currently developing my skills through personal projects and exploring full-stack development and cloud technologies.
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
 ### **Languages**
 - Python, Java, JavaScript, TypeScript  
@@ -31,16 +30,8 @@ I’m currently developing my skills through personal projects, university cours
 
 ---
 
-## 📌 What I’m Focused On
-- Building stronger fundamentals in **data structures, algorithms, and system design**  
-- Exploring practical applications of **AI/ML**  
-- Strengthening experience with **cloud-native development** (AWS + backend)  
-- Producing clean, scalable, well-documented code  
-
----
-
-## 📫 Connect With Me
-**LinkedIn:** https://linkedin.com/in/sanjayrajjan  
+## Connect With Me
+**LinkedIn:** https://linkedin.com/in/sanjayrajjan/ 
 **Email:** sanjayrajjan.j@gmail.com  
 
 ---
