@@ -7,20 +7,17 @@ I’m currently developing my skills through personal projects and exploring ful
 ## Technical Skills
 
 ### **Languages**
-- Python, Java, JavaScript, TypeScript  
+- Python, Java, JavaScript
 - SQL  
 - HTML & CSS  
 
 ### **Frameworks & Libraries**
 - React, Node.js, Express  
-- Spring Boot  
 - FastAPI  
 
 ### **Tools & Technologies**
 - Git & GitHub  
-- AWS 
-- Pytest
-- Jira  
+- AWS
 
 
 ## Connect With Me
